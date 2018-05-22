@@ -1,0 +1,49 @@
+<resources>
+    <string name="appName">Brain Training Game</string>
+    <string name="continueLbl">Continue</string>
+    <string name="newGameLbl">New Game</string>
+    <string name="aboutLbl">About</string>
+    <string name="statisticsLbl">Statistics</string>
+    <string name="exitLbl">Exit</string>
+    <string name="aboutTitle">About Math Ninja Game</string>
+    <string name="aboutTxt">This game is about testing your mathematical skills
+    and see test your accuracy to win all questions appeared in the game</string>
+    <string name="okLbl">OK</string>
+    <string name="confirmExitTitle">Confirm Exit</string>
+    <string name="confirmExitTxt">Are you sure you want to Exit? Then Save and Exit the game
+        or Press Cancel to Exit without saving</string>
+    <string name="saveAndExitBtn">Save &amp; Exit</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="and"> \?</string>
+    <string name="game_name">Math Ninja</string>
+    <string name="game_start_button">Start</string>
+
+    <!-- Main Game -->
+    <string name="score">0</string>
+    <string name="statusLbl">GOOD LUCK!</string>
+    <string name="timeRemainingLbl">Time Remaining : </string>
+    <string name="welcomeMessage">Press # to start the game</string>
+
+    <!-- Number Pad -->
+    <string name="key0">0</string>
+    <string name="key1">1</string>
+    <string name="key2">2</string>
+    <string name="key3">3</string>
+    <string name="key4">4</string>
+    <string name="key5">5</string>
+    <string name="key6">6</string>
+    <string name="key7">7</string>
+    <string name="key8">8</string>
+    <string name="key9">9</string>
+    <string name="key_hash">#</string>
+    <string name="key_del">Del</string>
+    <string name="key_minus">-</string>
+
+    <!-- Game difficulty -->
+    <string name="new_game_title">Difficulty</string>
+    <string name="novice_label">Novice</string>
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="guru_label">Guru</string>
+
+</resources>

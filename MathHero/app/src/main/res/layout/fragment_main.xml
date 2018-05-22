@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_menu_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".ui.activity.MathNinjaGameActivity"
+    android:background="@drawable/menu_fragment_border">
+
+    <Button
+        android:id="@+id/continueButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/continueLbl"
+        android:padding="@dimen/menu_button_margin"
+        android:fontFamily="@font/chango"
+        android:textSize="@dimen/main_menu_button"
+        android:textColor="@color/colorDarkBlue"
+        android:background="@drawable/ripple_animation"/>
+
+    <Button
+        android:id="@+id/newGameButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/newGameLbl"
+        android:fontFamily="@font/chango"
+        android:padding="@dimen/menu_button_margin"
+        android:textColor="@color/colorDarkBlue"
+        android:textSize="@dimen/main_menu_button"
+        android:background="@drawable/ripple_animation"/>
+
+    <Button
+        android:id="@+id/aboutButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutLbl"
+        android:fontFamily="@font/chango"
+        android:padding="@dimen/menu_button_margin"
+        android:textColor="@color/colorDarkBlue"
+        android:textSize="@dimen/main_menu_button"
+        android:background="@drawable/ripple_animation"/>
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/exitLbl"
+        android:fontFamily="@font/chango"
+        android:padding="@dimen/menu_button_margin"
+        android:textColor="@color/colorDarkBlue"
+        android:textSize="@dimen/main_menu_button"
+        android:background="@drawable/ripple_animation"/>
+
+</LinearLayout>
